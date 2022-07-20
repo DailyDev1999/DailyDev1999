@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science/Software Engineering 
 - 🌱 I’m currently learning Python, Javascript and soon C#. My focus is on Python.
 - 💞️ I’m looking to collaborate on projects (language does not matter).
-- 📫 How to reach me: Create an incident on a project of mine and I'll contact you.
+- 📫 How to reach me: Create an issue on a project of mine and I'll contact you.
